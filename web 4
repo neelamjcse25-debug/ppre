@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<table border = "5">
+    <caption>Weekly Time Table</caption>
+
+    <tr>
+        <th>Day</th>
+        <th>9am-10am</th>
+        <th>10am-am</th>
+        <th>11am-12pm</th>
+        <th>12pm-1pm</th>
+        <th>1pm-2pm</th>
+    </tr>
+
+    <tr>
+        <td>Monday</td>
+        <td>Math</td>
+        <td>Science</td>
+        <td>English</td>
+        <td rowspan="5">Lunch</td>
+        <td>Computer</td>
+    </tr>
+
+    <tr>
+        <td>Tuesday</td>
+        <td>English</td>
+        <td>Math</td>
+        <td>Science</td>
+        <td>Sports</td>
+    </tr>
+
+    <tr>
+        <td>Wednesday</td>
+
+        <td>Science</td>
+        <td>English</td>
+        <td>Math</td>
+        <td>Computer</td>
+
+</tr>
+</table>
+<footer>Created by Neelam CS25096</footer>
+</body>
+</html>
